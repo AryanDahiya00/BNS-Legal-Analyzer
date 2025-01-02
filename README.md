@@ -1,5 +1,7 @@
 # BNS Legal Analyzer: AI-Powered Bharatiya Nyaya Sanhita Analysis System
 
+![Alt text](https://github.com/AryanDahiya00/BNS-Legal-Analyzer/blob/main/output.JPG)
+
 ## Project Overview
 The BNS Legal Analyzer is an advanced legal analysis system that leverages Google's Vertex AI with the Gemini 1.5 Pro model to analyze criminal cases under the Bharatiya Nyaya Sanhita (BNS) 2023. This system serves as a digital legal assistant, providing automated analysis and guidance based on the new Indian criminal code.
 
